@@ -1,12 +1,12 @@
-#M300_LB1
+# M300_LB1
 
-#LB1 Modul 300
+## LB1 Modul 300
 
-#Gruppe
+## Gruppe
 
-#Honegger Fabrice, Von Atzigen Gregor
+Honegger Fabrice, Von Atzigen Gregor
 
-Projekt WebDAV
+###Projekt WebDAV
 Die Idee ist es über ein Vagrantfile zwei Linuxmaschinen von https://app.vagrantup.com/boxes/search aufzusetzen.
 1x Bento (Ubuntu Client, WebDAV)
 1x ubuntu/xenial64 (Ubuntu Client)
